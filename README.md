@@ -1,0 +1,10 @@
+**ISTRUZIONI CODICE**
+**GRASSETTO**
+# titolo
+## titolo 2
+*CORSIVO*
+* ELENCO
+* ELENCO
+* ELENCO
+
+`BACKTICK`
